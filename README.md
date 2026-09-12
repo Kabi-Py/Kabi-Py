@@ -1,10 +1,12 @@
 <div align="center">
   <!-- 1. Profile Banner -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kabi-Py/Kabi-Py/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kabi-Py/Kabi-Py/main/light.svg">
-    <img alt="Kabi's System Info Banner" src="https://raw.githubusercontent.com/Kabi-Py/Kabi-Py/main/dark.svg" width="100%">
-  </picture>
+  <a href="https://portfolio-kabi.vercel.app/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kabi-Py/Kabi-Py/main/dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kabi-Py/Kabi-Py/main/light.svg">
+      <img alt="Kabi's System Info Banner" src="https://raw.githubusercontent.com/Kabi-Py/Kabi-Py/main/dark.svg" width="100%">
+    </picture>
+  </a>
 </div>
 
 <br/>
