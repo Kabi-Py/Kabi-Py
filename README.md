@@ -37,10 +37,10 @@
 
 ---
 
-### About Me
+### What and who is Kabi?
 * Python backend developer and UI/UX designer based in Pakistan.
 * Building cutting-edge applications under the KABI banner (**K**ybernetic **A**rtificial **B**ased **I**ntelligence).
 
 ### Featured Projects
-* **[Sapphire AI](https://sapphire-ai-main.vercel.app/):** Next-generation AI chatbot and code generator featuring Flash and Ultra operating modes, built with FastAPI, Supabase, and Qwen 2.5.
+* **[Sapphire AI](https://sapphire-ai-main.vercel.app/):** Next-generation AI chatbot and code generator featuring Flash and Ultra operating modes, built with FastAPI, Hugging Face, and Sapphire llm.
 * **[Studio // GLSL Engine](https://visual-pinch-tracking.vercel.app/):** Interactive web application combining real-time MediaPipe hand-tracking, Three.js 3D graphics, and GLSL shaders.
