@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610">
+  <defs>
+    <style>
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+      @keyframes slideIn { from { opacity: 0; transform: translateX(-10px); } to { opacity: 1; transform: translateX(0); } }
+      .live-dot { animation: pulse 2s infinite ease-in-out; }
+      .row { 
+        opacity: 0; 
+        animation: slideIn 0.5s ease-out forwards; 
+        font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; 
+        font-size: 14px; 
+      }
+      .header { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 13px; }
+      .live-txt { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 12px; font-weight: bold; }
+      .pill-txt { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 14px; font-weight: bold; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1180" height="610" fill="#F8FAFC" />
+
+  <!-- Terminal Window -->
+  <rect x="40" y="40" width="1100" height="530" rx="10" fill="#FFFFFF" stroke="#089182" stroke-width="1.5" />
+  <line x1="40" y1="85" x2="1140" y2="85" stroke="#089182" stroke-width="1.5" />
+
+  <!-- Terminal Controls -->
+  <circle cx="65" cy="62.5" r="6" fill="#ef4444" />
+  <circle cx="85" cy="62.5" r="6" fill="#eab308" />
+  <circle cx="105" cy="62.5" r="6" fill="#22c55e" />
+
+  <!-- Title -->
+  <text x="590" y="67" class="header" fill="#089182" text-anchor="middle">~/profile.sh-live</text>
+
+  <!-- LIVE Badge -->
+  <circle cx="980" cy="62.5" r="4" fill="#ef4444" class="live-dot" />
+  <text x="990" y="66" class="live-txt" fill="#ef4444">LIVE</text>
+
+  <!-- Handle Pill -->
+  <rect x="1035" y="50.5" width="85" height="24" rx="12" fill="#089182" />
+  <text x="1077.5" y="67" class="pill-txt" fill="#FFFFFF" text-anchor="middle">Kabi-Py</text>
+
+  <!-- SYSTEM.INFO Text Panel -->
+  <g transform="translate(0, 30)">
+    <text class="row" style="animation-delay: 0.10s;" x="100" y="130" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Subject </tspan><tspan fill="#CBD5E1">.................................................................................................</tspan><tspan fill="#0A101F"> Kabi</tspan></text>
+    <text class="row" style="animation-delay: 0.15s;" x="100" y="153" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Role </tspan><tspan fill="#CBD5E1">...............................................................</tspan><tspan fill="#0A101F"> Python Backend Developer &amp; UI/UX Designer</tspan></text>
+    <text class="row" style="animation-delay: 0.20s;" x="100" y="176" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Origin </tspan><tspan fill="#CBD5E1">..............................................................................................</tspan><tspan fill="#0A101F"> Pakistan</tspan></text>
+    <text class="row" style="animation-delay: 0.25s;" x="100" y="199" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Education </tspan><tspan fill="#CBD5E1">.........................................................</tspan><tspan fill="#0A101F"> 10th-Grade Student (BISE Sindh Curriculum)</tspan></text>
+    <text class="row" style="animation-delay: 0.30s;" x="100" y="222" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Status </tspan><tspan fill="#CBD5E1">.........................................................................</tspan><tspan fill="#0A101F"> Building, Learning &amp; Shipping</tspan></text>
+    <text class="row" style="animation-delay: 0.35s;" x="100" y="245" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">ToolChain </tspan><tspan fill="#CBD5E1">.....................................</tspan><tspan fill="#0A101F"> VS Code, Git, Android Studio, Figma, Supabase, Vercel, Netlify</tspan></text>
+    <text class="row" style="animation-delay: 0.40s;" x="100" y="268" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Core.Lang </tspan><tspan fill="#CBD5E1">....................................................................</tspan><tspan fill="#0A101F"> Python, JavaScript, HTML5, CSS3</tspan></text>
+    <text class="row" style="animation-delay: 0.45s;" x="100" y="291" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Core.Frontend </tspan><tspan fill="#CBD5E1">.........................</tspan><tspan fill="#0A101F"> CustomTkinter, Chainlit, Flet, Three.js, GSAP, MediaPipe, Tailwind CSS</tspan></text>
+    <text class="row" style="animation-delay: 0.50s;" x="100" y="314" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Core.Backend </tspan><tspan fill="#CBD5E1">.................................................................................</tspan><tspan fill="#0A101F"> Python, FastAPI</tspan></text>
+    <text class="row" style="animation-delay: 0.55s;" x="100" y="337" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Core.Database </tspan><tspan fill="#CBD5E1">.......................................................................................</tspan><tspan fill="#0A101F"> Supabase</tspan></text>
+    <text class="row" style="animation-delay: 0.60s;" x="100" y="360" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Core.Infra </tspan><tspan fill="#CBD5E1">...........................................................................</tspan><tspan fill="#0A101F"> Vercel, Netlify, GitHub</tspan></text>
+    <text class="row" style="animation-delay: 0.65s;" x="100" y="383" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Grid.Mail </tspan><tspan fill="#CBD5E1">...........................................................................</tspan><tspan fill="#0A101F"> scytherkalhoro@gmail.com</tspan></text>
+    <text class="row" style="animation-delay: 0.70s;" x="100" y="406" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Grid.Portfolio </tspan><tspan fill="#CBD5E1">.....................................................................</tspan><tspan fill="#0A101F"> portfolio-kabi.vercel.app</tspan></text>
+    <text class="row" style="animation-delay: 0.75s;" x="100" y="429" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Grid.SapphireAI </tspan><tspan fill="#CBD5E1">..................................................................</tspan><tspan fill="#0A101F"> sapphire-ai-main.vercel.app</tspan></text>
+    <text class="row" style="animation-delay: 0.80s;" x="100" y="452" textLength="980" lengthAdjust="spacingAndGlyphs"><tspan fill="#108981">Grid.StudioGLSL </tspan><tspan fill="#CBD5E1">.............................................................</tspan><tspan fill="#0A101F"> visual-pinch-tracking.vercel.app</tspan></text>
+  </g>
+</svg>
