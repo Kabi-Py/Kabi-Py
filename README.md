@@ -32,8 +32,12 @@
 
 <!-- 3. GitHub Stats & Top Languages -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kabi-Py&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=108981&icon_color=089182&border_color=089182" alt="Kabi's GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabi-Py&layout=compact&hide_title=false&bg_color=0A101F&title_color=22D3EE&text_color=108981&border_color=089182" alt="Kabi's Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kabi-Py&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=108981&icon_color=089182&border_color=089182" alt="Kabi's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabi-Py&layout=compact&hide_title=false&bg_color=0A101F&title_color=22D3EE&text_color=108981&border_color=089182" alt="Kabi's Top Languages" />
+  </a>
 </p>
 
 <br/>
@@ -52,8 +56,8 @@
 ---
 
 ### What and who is Kabi?
-* Python backend developer and UI/UX designer based in Pakistan.
-* Building cutting-edge applications under the KABI banner (**K**ybernetic **A**rtificial **B**ased **I**ntelligence).
+* Python backend developer and UI/UX designer based in Pakistan.[cite: 1]
+* Building cutting-edge applications under the KABI banner (**K**ybernetic **A**rtificial **B**ased **I**ntelligence).[cite: 1]
 
 ### Current Focus
 * <img src="https://img.shields.io/badge/-Hacking_On:-0A101F?style=flat-square&logo=visualstudiocode&logoColor=22D3EE" alt="Hacking On" align="top" /> Scalable AI microservices and immersive real-time graphics pipelines under the KABI standard.
@@ -66,12 +70,12 @@
 </p>
 
 ### Featured Projects
-* **[Sapphire AI](https://sapphire-ai-main.vercel.app/):** Next-generation AI chatbot and code generator featuring Flash and Ultra operating modes, built with FastAPI, Hugging Face, and Sapphire llm.<br/>
+* **[Sapphire AI](https://sapphire-ai-main.vercel.app/):** Next-generation AI chatbot and code generator featuring Flash and Ultra operating modes, built with FastAPI, Hugging Face, and Sapphire llm.[cite: 1]<br/>
   ![FastAPI](https://img.shields.io/badge/-FastAPI-0A101F?style=flat-square&logo=fastapi&logoColor=22D3EE)
   ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-0A101F?style=flat-square&logo=huggingface&logoColor=22D3EE)
   ![Python](https://img.shields.io/badge/-Python-0A101F?style=flat-square&logo=python&logoColor=22D3EE)
 
-* **[Studio // GLSL Engine](https://visual-pinch-tracking.vercel.app/):** Interactive web application combining real-time MediaPipe hand-tracking, Three.js 3D graphics, and GLSL shaders.<br/>
+* **[Studio // GLSL Engine](https://visual-pinch-tracking.vercel.app/):** Interactive web application combining real-time MediaPipe hand-tracking, Three.js 3D graphics, and GLSL shaders.[cite: 1]<br/>
   ![Three.js](https://img.shields.io/badge/-Three.js-0A101F?style=flat-square&logo=threedotjs&logoColor=22D3EE)
   ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0A101F?style=flat-square&logo=google&logoColor=22D3EE)
   ![GLSL](https://img.shields.io/badge/-GLSL-0A101F?style=flat-square&logo=opengl&logoColor=22D3EE)
