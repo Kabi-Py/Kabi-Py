@@ -32,8 +32,8 @@
 
 <!-- 3. GitHub Stats & Top Languages -->
 <p align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Kabi-Py&show_icons=true&hide_rank=true&bg_color=0A101F&title_color=22D3EE&text_color=108981&icon_color=089182&border_color=089182" alt="Kabi's GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kabi-Py&layout=compact&hide_title=false&bg_color=0A101F&title_color=22D3EE&text_color=108981&border_color=089182" alt="Kabi's Top Languages" />
+  <img width="49%" src="https://github-readme-stats-kabi.vercel.app/api?username=Kabi-Py&show_icons=true&hide_rank=true&count_private=true&include_all_commits=true&border_radius=8&bg_color=0A101F&title_color=22D3EE&text_color=108981&icon_color=089182&border_color=089182" alt="Kabi's GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-kabi.vercel.app/api/top-langs/?username=Kabi-Py&layout=compact&langs_count=6&border_radius=8&hide_title=false&bg_color=0A101F&title_color=22D3EE&text_color=108981&border_color=089182" alt="Kabi's Top Languages" />
 </p>
 
 <br/>
