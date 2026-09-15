@@ -56,7 +56,7 @@
 * Building cutting-edge applications under the KABI banner (**K**ybernetic **A**rtificial **B**ased **I**ntelligence).
 
 ### Current Focus
-* <img src="https://img.shields.io/badge/-Hacking_On:-0A101F?style=flat-square&logo=visualstudiocode&logoColor=22D3EE" alt="Hacking On" align="top" /> Scalable AI microservices and immersive real-time graphics pipelines under the KABI standard.
+* <img src="https://img.shields.io/badge/-Hacking_On:-0A101F?style=flat-square&logo=visualstudiocode&logoColor=22D3EE" align="top" /> Scalable AI microservices and immersive real-time graphics pipelines under the KABI standard.
 
 ### Tech Stack
 <p align="left">
